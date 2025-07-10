@@ -1,4 +1,4 @@
-# Custom Segmantation by YOLOv11
+# Segmantation by YOLOv11
 ![Static Badge](https://img.shields.io/badge/yolov11n-seg-blue)
 
 - Visualizing Multi-class Segmentation for Custom Datasets using Yolo11n-Seg model
